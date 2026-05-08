@@ -23,21 +23,21 @@
 
 ## Мои проекты
 
-🔹 **[Игра]([])**  
-Краткое описание: Что делал, использованные технологии, что получилось.
+🔹 **[Игра]([https://github.com/dubinka39-hub/My-game])**  
+
 
 🔹 **[Банковская система]([https://github.com/dubinka39-hub/BankingSystem])**  
-Краткое описание: Что делал, использованные технологии, что получилось.
+
 
 🔹 **[Машинный сервис]([https://github.com/dubinka39-hub/car-Service.git])**  
-Если есть сайт на GitHub Pages или внешний.
+
 
 ---
 
 ## Контакты
 
 📧 Электронная почта: dubinka39@gmail.com
-💬 Telegram / Discord: @Rsherrr
+💬 Telegram: @Rsherrr
 
 ---
 
