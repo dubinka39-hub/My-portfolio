@@ -23,13 +23,13 @@
 
 ## Мои проекты
 
-🔹 **[Игра]([https://github.com/dubinka39-hub/My-game])**  
+🔹 **[Игра](https://github.com/dubinka39-hub/My-game)**  
 
 
-🔹 **[Банковская система]([https://github.com/dubinka39-hub/BankingSystem])**  
+🔹 **[Банковская система](https://github.com/dubinka39-hub/BankingSystem)**  
 
 
-🔹 **[Машинный сервис]([https://github.com/dubinka39-hub/car-Service])**  
+🔹 **[Машинный сервис](https://github.com/dubinka39-hub/car-Service)**  
 
 
 ---
