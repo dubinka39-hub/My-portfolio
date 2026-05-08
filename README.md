@@ -29,7 +29,7 @@
 🔹 **[Банковская система]([https://github.com/dubinka39-hub/BankingSystem])**  
 
 
-🔹 **[Машинный сервис]([https://github.com/dubinka39-hub/car-Service.git])**  
+🔹 **[Машинный сервис]([https://github.com/dubinka39-hub/car-Service])**  
 
 
 ---
