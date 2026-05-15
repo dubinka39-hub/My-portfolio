@@ -23,7 +23,7 @@
 
 ## Мои проекты
 
-🔹 **[Игра](https://github.com/dubinka39-hub/My-game)**  
+🔹 **[2D Игра](https://github.com/dubinka39-hub/My-game)**  
 
 
 🔹 **[Банковская система](https://github.com/dubinka39-hub/BankingSystem)**  
